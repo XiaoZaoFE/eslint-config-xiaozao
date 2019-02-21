@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-xiaozao",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An opinionated eslint configuration for React, applying prettier on top of airbnb's config",
   "main": "index.js",
   "author": "syanbo",
